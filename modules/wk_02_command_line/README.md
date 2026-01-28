@@ -24,7 +24,7 @@ Most computational biology tools—whether run locally, scripted in Bash, or exe
 
 ## In Class Exercises
 We will become familiar with command line syntax and commands through exploration of MIT's [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html). 
-On Wednesday, Charli will lead you through the homework and a UNIX shell. Download [here](https://github.com/Colorado-State-University-CMB/CM515-2026/blob/main/modules/wk_02_command_line/shell-lesson-data.zip). Fill out the command line worksheet during class and finish as homework if needed. The worksheet can be found here or on canvas. It will be due Feb 6th (submit to canvas).
+On Wednesday, Charli will lead you through the homework and a UNIX shell. Download [here](https://github.com/Colorado-State-University-CMB/CM515-2026/blob/main/modules/wk_02_command_line/shell-lesson-data.zip). Fill out the command line worksheet during class and finish as homework if needed. The worksheet can be found [here](https://github.com/Colorado-State-University-CMB/CM515-2026/blob/main/modules/wk_02_command_line/command_line_worksheet.docx) or on canvas. It will be due Feb 4th (submit to canvas).
 
 ## Homework Assignment
 
